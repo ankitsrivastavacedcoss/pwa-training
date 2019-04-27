@@ -1,0 +1,157 @@
+# pack-refs with: peeled fully-peeled 
+9871e3526501c7aad7ea21cf70fe4136096de796 refs/remotes/origin/aws-pr-test-build-bugfix
+e62426047160226b34f285ac9f82dba3257761f8 refs/remotes/origin/develop
+4530b00e8eec7a4b2a8d5cfac4f0772b7cc501ec refs/remotes/origin/feature/authorized-user-add-product-to-cart
+202141ee3999c12d94e8488c13b04b8f6a0dc894 refs/remotes/origin/feature/implement-account-details
+795ac5e0ff93d62340ea6ad85c9a13f78412a640 refs/remotes/origin/feature/lewis-cms-extension-redo
+6de14b9c830ff01b24b92b8dcaef622a2032cf13 refs/remotes/origin/feature/order-confirmation-page
+c6230f525a7bd40e914a756463c7b6dc6d583211 refs/remotes/origin/feature/purchase-history-page
+9093643feee00220650b04b7988949314d77fc5c refs/remotes/origin/feature/remodel-address-form
+b1469bb7e8fa1f52b6265b1b91110887923efa30 refs/remotes/origin/feature/toasts
+da1f391c23c8c77c6422188c4a2a74f3cc6270c5 refs/remotes/origin/fix/windows_dev_experience
+38db6f4c634e7376fa895c17b21f52fb8e1d089c refs/remotes/origin/gh-pages
+7b86d52abc88a1c03f96150df28ff96098992380 refs/remotes/origin/integration/2.0
+c6908802cd191114fb408a31a856b5da8d6f330e refs/remotes/origin/jimbo/address-form
+0f304fd69170256db139fb47bd49f307db5fff95 refs/remotes/origin/jimbo/category-tiles
+c789fbf9fb114ea81f8df63c5c88a96be81604a1 refs/remotes/origin/jimbo/category-tree
+73ed2bf18d50ee820089b8a72cd41c19e2bb3748 refs/remotes/origin/jimbo/develop
+c6ebd780219229a738782d4daf8bc493649d3e8c refs/remotes/origin/jimbo/fields
+5c4e2afa28161779953e6d32bc6b4c315b8d76ea refs/remotes/origin/jimbo/gql
+07746fc1f54b0b45a7a9c4a9dd2778078339c3f4 refs/remotes/origin/jimbo/graphql-nav
+194b0721ba89f0e1f766be497fd5e212b5507e43 refs/remotes/origin/jimbo/navigation
+14d61b7382af265e59f9c006ce46b425b8eaff62 refs/remotes/origin/jimbo/option-type-tests
+3eaf116b4aabd3bd3173813a099260ea39b7a8c0 refs/remotes/origin/jimbo/redux-reorg
+a8e084c2bbe7e395511943dc1c42c5c6ee135b13 refs/remotes/origin/jimbo/redux-tests
+3107e055e41288872c9ebd98fe66376c7d3fc25c refs/remotes/origin/jimbo/routing
+199f30b261d50e795dcf378d2cca737a19f441b2 refs/remotes/origin/jimbo/searchbar
+2bc050baf7ecb21655c939eaf9cd648f6b1018af refs/remotes/origin/jimbo/shipping-address
+262ec4d3e7ec8dfa9650fea9bbfbcc558269951e refs/remotes/origin/jimbo/yarn
+0e78765e80eef7e28454c3c0a6ec57f4c617dc23 refs/remotes/origin/jimothy/357_update-pwadevserver-docs
+aa0bcd72b3d96d1d6d468b44d224e0f61972ca18 refs/remotes/origin/jimothy/952_create-compatibility-table-page
+06df50e37fb72d379c8ac4db27cb3b129fc48102 refs/remotes/origin/jimothy/GH-48_revise-css-modules-docs
+31afa3789fadd1c93ebedae3742c52128e718885 refs/remotes/origin/jimothy/certificate-troubleshooting-updates
+0d5fc9b7b6081287eab3798b82fba96cd49be2a0 refs/remotes/origin/jimothy/gh-1009_release-notes-2.1.0
+d1b5e428d8f9e9be1cf8efe5995fc32a2ab46b0a refs/remotes/origin/jimothy/gh-1127_add-markdown-linting
+cfe4c066e44a5003bc45f181788298fb83cec7c9 refs/remotes/origin/jimothy/gh-1137_client-side-caching
+6c98bd8773244060e779e801f33e6375546ad03c refs/remotes/origin/jimothy/gh-1157_fix-basic-concepts-page-links
+65955d282c31b50b81ff79d9a5910cce5112932c refs/remotes/origin/jimothy/gh-181_upward-concepts
+c9912118b7b91da32c7ee2fad84ffcb620edd637 refs/remotes/origin/jimothy/gh-320_routing-documentation
+ed1de17bc442bab5ca9cfe615a81ce0f64c58428 refs/remotes/origin/jimothy/gh-434_remove-old-docs
+294d712adb11424ac9539c77f2ae035e7679ab56 refs/remotes/origin/jimothy/gh-436_move-venia-sample-data-installation-topic
+b377b8bc4c3c27b2fd98e1e3134b2ef434de724c refs/remotes/origin/jimothy/jekyll-links-parser
+294625145bdda68809674a73d85a04608c3da17a refs/remotes/origin/lighthouse-ci
+b1dba9e290d40ae80fdf08a5ecce476a82a9bf17 refs/remotes/origin/master
+f6e7a1832e5a1ca9fefd62f8960d7a5cdd3c7c06 refs/remotes/origin/migrate-off-circleci
+926c8bd094989212513c3379098e253ef768aae3 refs/remotes/origin/placeholderimages
+9def0801b359dd47d47e2583ca419292ac270449 refs/remotes/origin/release/2.1
+d1ce4aa5bedd5d19ebd7de72859488b4d1411f08 refs/remotes/origin/remove-merge-driver
+19fa57ae5fdce5e24901d9a345eb0abd91928cb4 refs/remotes/origin/revert-754-patch-1
+87dfa17b3f4d3a8aed1a0bb30b9210d1f5e9ce2d refs/remotes/origin/revert-936-patch-1
+959677500bc8df372e03f67d0c092b877fb9f2aa refs/remotes/origin/supernova/1047-add_version_label_to_pr_template
+efd614c8a760b11119bb4c99ac1d2d7893711806 refs/remotes/origin/supernova/1143-expired_guest_cart
+5063da307e4fd6af64dd3745b7a0c74c15179a58 refs/remotes/origin/supernova/640-configurable_product_error
+3cc939bdb90e589a7274048c5e5f92bbc1fc57d6 refs/remotes/origin/supernova/655
+a2c8d680fb7c48e76057fb15afa230b8510d6746 refs/remotes/origin/supernova/830-create_account
+42419de8ca6977130c3c96f43e3502f66eaaa90e refs/remotes/origin/supernova/886
+5fbca5507e7e723a0a4082e3fc74596621703b96 refs/remotes/origin/supernova/888
+89266423c05e9001ea0585a57574f36973ea6905 refs/remotes/origin/supernova/search
+6d8e000bdfcac3a7b641ffb7691d49653937457f refs/remotes/origin/testing-failures
+b6f900fb20e31309325cceab6baef563914906ee refs/remotes/origin/testing-failures-circleci
+306fbb31591e237724094605ae1ca4714e4f4b73 refs/remotes/origin/tests/ProductImageCarousel
+b7740ceee369f36335e259d403ae0a5fb31aa7e1 refs/remotes/origin/tests/SearchBar
+0fdb1d590b17d69bfbdce15af1c4da321b843608 refs/remotes/origin/vitali/babel7
+952c1e2f7ae1034dca69f8d3e96bd792b7d441be refs/remotes/origin/vitali/e2e
+4777d8b35fb26522039fa3679cd9017dde1bd7da refs/remotes/origin/vitali/testcafe
+d4df17cef968dea1b937d14d63ea71325cc81017 refs/remotes/origin/vitali/testcafe-docs
+d38ad2d2f70927081dee6475af7f055cfbfef5d2 refs/remotes/origin/zetlen/add-docs-req-to-contributing
+0687cf53526536bf653751b59e27e012d4dca856 refs/remotes/origin/zetlen/add-robots-txt-658
+7617237a91fcb7e89a455080089a24a4a640f626 refs/remotes/origin/zetlen/branch-mgmt-in-ci
+c6d1d9d28310e93d1d7bee900ab45a2d6fe20e2e refs/remotes/origin/zetlen/buildpack-v3
+2fa51854fc00527010f12a15872afb9f25614e77 refs/remotes/origin/zetlen/consolidate-config
+cf2b53314907ae3426ef08b841838fcdb68e2701 refs/remotes/origin/zetlen/critical-css-by-filename
+0fe564bb491181921bf328447fe7793f54c55ee2 refs/remotes/origin/zetlen/fix-broken-tests
+123a35f0021491445af8b124f7afdbbcc6b8b290 refs/remotes/origin/zetlen/fix-cart-retry-cycle
+a478e637b3ecff0b7b8db4d11af5d78526cf5016 refs/remotes/origin/zetlen/fix-outdated-package-lock
+19217f4652b577db9b7dc4537a4cf458fb859ea9 refs/remotes/origin/zetlen/fix-price-browser-compat
+f9ce09fd6ffccab1490977d91debad8985c9657d refs/remotes/origin/zetlen/fix-querycmp-testing
+2327baceb7cfd6d9cde8c9cba0e725c58b84bbc8 refs/remotes/origin/zetlen/graphql-change-mgmt
+c4d3ae3d1e682c7d77bf636f1b275768de91edb1 refs/remotes/origin/zetlen/lerna-switch-to-fixed
+46accb160f913b5a9b4819114a60daef3e67eadc refs/remotes/origin/zetlen/new-release-env
+9b75b4ce94ecb50e1358fbbe23373dce1ee33124 refs/remotes/origin/zetlen/new-release-environment
+a30f445d8094e2dbbeec801362b6881fafcc163e refs/remotes/origin/zetlen/now-v2-and-staging
+2511a690f7aaf9f6dcd11f82d3e45debc1c43415 refs/remotes/origin/zetlen/production-build-bugfixes
+d90739e4b4c1a0c0bd92ab78b83b73719d2fa878 refs/remotes/origin/zetlen/pwa-module-fixing
+9e13f0c383e14da5141f4bebb20fed8d52d39ccf refs/remotes/origin/zetlen/readme-consistency
+8b7f767a9a712b3d30736deeac23c612ab43cdfc refs/remotes/origin/zetlen/revert-eslint-change
+10d2f0eed287d0fb7a509a520f78594e634355fb refs/remotes/origin/zetlen/revert-storybook-upgrade
+1bf87962c7ef6ac377937708f6809420aedf9470 refs/remotes/origin/zetlen/specify-npm-published-assets
+6d5380903534ae3e625e00f0e543cb64cf724193 refs/remotes/origin/zetlen/upgrade-deps-for-3.0
+7cea416307f129b660490da3a4fa162f6e3b704e refs/remotes/origin/zetlen/upward
+666dfa6845eee54a7fa861bd4edf1d2e0ab0e3af refs/remotes/origin/zetlen/upward-add-url-resolver
+64cfc3540b85ca1b1e978c3d3d310bb1ab7c1402 refs/remotes/origin/zetlen/upward-appshell-improvements
+6bfa910afac2eb2595b50b6c044fca26ba014204 refs/remotes/origin/zetlen/upward-simple-optimizations
+edd230f609c77fff79f5551ac8f68892d41af4ed refs/remotes/origin/zetlen/upward-streams
+0af6424ef43bb2749904abd9618ec3a48b7ad15d refs/remotes/origin/zetlen/venia-launcher
+83695f8b0d7564719ac4f28157ad16cfb9a62dbc refs/remotes/origin/zetlen/webpack-workbox-improvements
+d604e0a2c863f79d3dea0f5407bbc4a4bd5858b8 refs/remotes/origin/zetlen/webpack4-refactor
+21c09b66b12720e8601201238e01d2029daa70d4 refs/remotes/origin/zetlen/webpack4-upgrade
+64e0786544b65b8261a616640e8e75a74b60c187 refs/remotes/origin/zetlen/windows-compat
+b2d6757118148cb3d6b406a62cbd6690ee3bb0b6 refs/tags/v1.1.0
+c957718a12dcda32b21a20e178a15f4899a41f7b refs/tags/v1.1.1
+^f974b14d15dde80a891783aa9ce1fe6ec69557d5
+7d87ef47a048de7bfcf70ca6dad83fd1fee304b7 refs/tags/v2.0.0
+^cf29cd684cc9740abfd8d0940a30a80f7c73b942
+f1949934abb42a729d001812a17e0f130fd7c6c8 refs/tags/v2.0.0-rc.1
+^1cbebebaf8dc35e0f834f72e7e7981e72f052d30
+5b2890b5c06e024763890aef07ad387c002ef779 refs/tags/v2.0.0-rc.10
+^83fcd7654cdbab27f8a319abf6af114cdb546cbf
+7ac54dbe89d999014090fb21f77c59514319d56b refs/tags/v2.0.0-rc.11
+^c0cc5fd129bcf3ca8a9ded77ea6feffe0632a4b9
+909560b8f0d2b10c0a5d4880fb56417bbd4cdd9d refs/tags/v2.0.0-rc.12
+^82c1d5280bc1640255f3dcd11e30a379af091e6f
+edc7aa2792d0f9e15126729bf14fef54fb11951e refs/tags/v2.0.0-rc.13
+^768b4ca8ec83c5356a8982fb362faa24fc1a8fcc
+3bba9df3a3c9536bf712c191073f92c12a825cd5 refs/tags/v2.0.0-rc.14
+^4a55b9869ee59163292705db731f2dd7efbf05b4
+91f2f60b9d38095fb9cb2d5ba5f2d9f14147e13d refs/tags/v2.0.0-rc.15
+^2d64c572ba02d610b88c093f91eac2cb16822be0
+6bab2e47116ab3482e0b11777e9cc3310de21b58 refs/tags/v2.0.0-rc.16
+^3927f36c1b4034af5143d323c0e71715f904988c
+2761b1a864f050987733f9aeb1a4e14188a29e27 refs/tags/v2.0.0-rc.17
+^56076db05ef998457cb1c29cfb0fbe16ddb33b20
+16ad4ec8ee04b6eaaf4308f472b29c71f54e2709 refs/tags/v2.0.0-rc.18
+^7965960b5cc90a3d5b7fe660b06e8606aa57e12d
+4ded079c2b2f6011e7e7fe9a2e521f26dc0b30a3 refs/tags/v2.0.0-rc.19
+^1fe07a47a683c96278224f0fa087237f847aa700
+64efeb36d4945cbdfc88839f103255398d131f38 refs/tags/v2.0.0-rc.2
+^011153722392e91921c2283defecdc19e65cb648
+5c4bf9d4aa6ecfbeb1eaafc95e446e46aaa4e307 refs/tags/v2.0.0-rc.20
+^bbb445d6a2553ffb6995b13e4dec365986016de2
+86d2b0c57866def447335b7f11047af664437fa4 refs/tags/v2.0.0-rc.3
+^d89e6a6e6ec95006892b837933ccf5692164253b
+8a4e9f663edd2ca8bbd1fdda74ec24b34f1417a5 refs/tags/v2.0.0-rc.4
+^a6f42fe1cb32dd189c1d1a3b2f4d29c234c3d2e2
+1ffd0e188b7bdf5edf4db5bd346eced74128222a refs/tags/v2.0.0-rc.5
+^c261b60c946c1c9e8f74d4490052b891e08e4006
+a247234976948bc31523036d0358bc4edab564d4 refs/tags/v2.0.0-rc.6
+^7cb32a1c588ab1f712379cacd8db11962b6b8ee5
+9409cb9f81eb507aec20381460d73a64be01419f refs/tags/v2.0.0-rc.7
+^4bfc1db9ab09d65a762e205b0884d4e5bdfc3c37
+a343d2a020ad9b953702b1f57496adbec2bb18e4 refs/tags/v2.0.0-rc.8
+^9f8718d29cd1b5ffe094c7c8b5748b5ee1532b17
+9a37ce2ecca449b16dcbc5150bb02b3c80b10d32 refs/tags/v2.0.0-rc.9
+^5de955b382e2d86d04542eb13f0ff1eaf138600e
+ad8deecabdad4e779db826b7a80b441cc5a3950c refs/tags/v2.0.0-rc2.0.1
+^c8c7a5bd96159ccf0a687802bccd90bbd1b08e4d
+0b420b5efd58f26de72521680dbf777e0b0a5154 refs/tags/v2.0.0-rc2.0.2
+^3de70ca51a7245feb209d5c9a1ea8209d441b561
+fc844356795baa242e1c014ce3f6e8a2cc1f0fe1 refs/tags/v2.0.0-rc2.0.3
+^e7dc3e7d3ba3e7fc9a582444e9bdb30332fa5ddd
+3c556a9be446b86f21fbd55de2c36502379aef02 refs/tags/v2.0.0-rc2.0.4
+^b4a261caeeb3176977fda448c27c3f7dd3b5f2d4
+4e920b6d433e5aec38270288c488077dcd582502 refs/tags/v2.0.0-rc2.0.5
+^8f672c2da08771d9434823a67d457e41bf14cd3c
+19a10fbacad029813aa36a5a651cbe6254457d4d refs/tags/v2.1.0
+^9def0801b359dd47d47e2583ca419292ac270449
+cafe15f30ed8335695604af25bfc69933359e78d refs/tags/v2.1.0-rc.1
+^66e2bb364d924c98d67f079de0d58c6212ce8616

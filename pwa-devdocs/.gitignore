@@ -1,0 +1,15 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+
+node_modules
+src/builds
+
+Gemfile.lock
+
+*.tar
+
+*.log
+*.lock
+
+**/auto-generated
